@@ -1,4 +1,4 @@
-# Hackathon DEV HOUSE 12 a 18 de julho de 2021
+![hackathon dev house](https://user-images.githubusercontent.com/17316392/116326974-20164800-a79c-11eb-889d-064161f21dfe.png)
 
 ## Cronograma
 - 12/07 as 19h: Live #01 esquenta hackathon - tema em breve
@@ -17,3 +17,6 @@
 <div align="center">
     <img src="https://user-images.githubusercontent.com/17316392/116294997-fa267e80-a76e-11eb-82ac-2326290dffc0.png" alt="Shawee" width=300/>
 </div>
+
+---
+Evento idealizado e planejado com ❤️ pela Dev House Community, faça parte da comunidade no [discord](https://discord.gg/hUjdjevDCz)
