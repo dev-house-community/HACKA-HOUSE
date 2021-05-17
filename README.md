@@ -15,7 +15,9 @@
 
 ## Apoiadores
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/17316392/116294997-fa267e80-a76e-11eb-82ac-2326290dffc0.png" alt="Shawee" width=300/>
+    <a href="https://shawee.io/pt/">
+        <img src="https://user-images.githubusercontent.com/17316392/116294997-fa267e80-a76e-11eb-82ac-2326290dffc0.png" alt="Shawee" width=300/>
+    </a>
 </div>
 
 ---
