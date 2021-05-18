@@ -1,6 +1,8 @@
 ![hackathon dev house](https://user-images.githubusercontent.com/17316392/116326974-20164800-a79c-11eb-889d-064161f21dfe.png)
 
 ## Cronograma
+- 12/07 - Divulgar desafio e tema
+
 - 12/07 as 19h: Live #01 esquenta hackathon - tema em breve
 - 13/07 as 19h: Live #02 esquenta hackathon - tema em breve
 - 14/07 as 19h: Live #03 esquenta hackathon - tema em breve
