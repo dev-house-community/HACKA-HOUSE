@@ -6106,7 +6106,8 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #1abc9c !important;
+  /* background-color: #1abc9c !important; */
+  background-image: url(../assets/img/background.svg) !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -6116,7 +6117,8 @@ button.bg-primary:focus {
 }
 
 .bg-secondary {
-  background-color: #2c3e50 !important;
+  background: rgb(248,107,239);
+  background: linear-gradient(90deg, rgba(248,107,239,1) 0%, rgba(75,51,187,1) 50%, rgba(103,255,240,1) 100%);
 }
 
 a.bg-secondary:hover, a.bg-secondary:focus,
@@ -10261,10 +10263,11 @@ form .row:first-child .floating-label-form-group {
 .footer {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #2c3e50;
+  background: rgb(248,107,239);
+  background: linear-gradient(90deg, rgba(248,107,239,1) 0%, rgba(75,51,187,1) 50%, rgba(103,255,240,1) 100%);
   color: #fff;
 }
 
 .copyright {
-  background-color: #1a252f;
+  background-color: #000;
 }
